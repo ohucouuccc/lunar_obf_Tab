@@ -1,1 +1,1 @@
-
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ohucouuccc/lunar-beta/refs/heads/main/lunar%20client.lua.txt"))()
